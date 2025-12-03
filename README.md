@@ -68,6 +68,12 @@ Aligned with **UN SDG 3**: *Good Health and Well-being*.
     - TN: 493, FP: 23
     - FN: 7, TP: 308
 
+<p align="center">
+  <img src="./download (3).png" width="40%">
+  <img src="./download (4).png" width="40%">
+  <img src="./download (5).png" width="40%">
+</p>
+
 ---
 
 ## 🎯 Why MLP Was Chosen for Deployment
