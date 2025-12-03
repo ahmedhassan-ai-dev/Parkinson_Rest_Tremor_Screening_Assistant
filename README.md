@@ -91,7 +91,7 @@ This ensures real-world reliability — especially in clinics with limited hardw
   - Real-time prediction using the trained MLP model
   - Clear result display (e.g., *"✅ Resting Tremor Detected — Confidence: 96.3%"*)
 
-*(Note: Screenshots can be added in `images/` folder)*
+**
 
 ---
 
