@@ -55,6 +55,13 @@ Aligned with **UN SDG 3**: *Good Health and Well-being*.
     - False Negatives: 11
     - True Positives: 304
 
+  <p align="center">
+  <img src="./download .png" width="45%">
+  <img src="./download (2).png" width="45%">
+  <img src="./download (1).png" width="45%">
+</p>
+
+
 ### 🔍 CNN-1D (Evaluated, Not Deployed)
 - Architecture:  
   `Conv1D(32) → MaxPool → Dropout(0.4) → Conv1D(64) → MaxPool → Dropout(0.4) → Flatten → Dense(64) → Dropout(0.5) → Dense(1, sigmoid)`
@@ -64,14 +71,12 @@ Aligned with **UN SDG 3**: *Good Health and Well-being*.
   - Accuracy: 0.9639
   - Recall: 0.9778
   - F1 Score: 0.9536
-  - Confusion Matrix:
-    - TN: 493, FP: 23
-    - FN: 7, TP: 308
+
 
 <p align="center">
-  <img src="./download (3).png" width="40%">
-  <img src="./download (4).png" width="40%">
-  <img src="./download (5).png" width="40%">
+  <img src="./download (3).png" width="45%">
+  <img src="./download (4).png" width="45%">
+  <img src="./download (5).png" width="45%">
 </p>
 
 ---
@@ -98,8 +103,8 @@ This ensures real-world reliability — especially in clinics with limited hardw
   - Clear result display (e.g., *"✅ Resting Tremor Detected — Confidence: 96.3%"*)
 
 <p align="center">
-  <img src="./Screenshot 2025-11-30 181201.png" width="45%">
-  <img src="./Screenshot 2025-11-30 181221.png" width="45%">
+  <img src="./Screenshot 2025-11-30 181201.png" width="50%">
+  <img src="./Screenshot 2025-11-30 181221.png" width="50%">
 </p>
 
 
